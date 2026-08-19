@@ -11,6 +11,7 @@ This project is a part of the **CodeAlpha Data Analytics Internship Task-2
 - Removed negative billing amounts.
 - handled missing values
 - converted data types.
+  
 **Task2:Exploratory Data Analysis.
   - Analyzed distribution of age and billing amount.
   - Found most common medical conditions
