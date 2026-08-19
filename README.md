@@ -21,9 +21,10 @@ This project is a part of the **CodeAlpha Data Analytics Internship Task-2
 - Pandas, Numpy
 - Matplotlib, Seaborn
 - Jupyter Notebook
+  
 ##How To Run
-1.Download 'healthcare_dataset.xls'
-2.Open 'codeAlphaTask1.ipynb' in jupyter Notebook
-3.Run all the cells to see the analysis and output
+ 1.Download 'healthcare_dataset.xls'.
+ 2.Open 'codeAlphaTask1.ipynb' in jupyter Notebook
+ 3.Run all the cells to see the analysis and output
 
   
