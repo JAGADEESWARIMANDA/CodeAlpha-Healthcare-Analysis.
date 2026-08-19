@@ -1,11 +1,11 @@
 # CodeAlpha-Healthcare-Analysis.
-Healthcare Data Analysis Task-2 (Exploratory Data Analysis for CodeAlpha internship
+Healthcare Data Analysis Task-2 (Exploratory Data Analysis for CodeAlpha internship)
 ## Project Overview.
 This project is a part of the **CodeAlpha Data Analytics Internship Task-2
 I performed Exploratory Data Analysis(EDA) ON a Healthcare Dataset to find insights about patients,billing,medicalconditions.
 ##Dataset
 'healthcare_dataset.xls'
-The dataset contains patient information like Name, Age, Gender, Medical Condition, Date of Admission, Billing Amount,etc.
+-The dataset contains patient information like Name, Age, Gender, Medical Condition, Date of Admission, Billing Amount,etc.
 ## Tasks  Completed.
 **Task1:Data Cleaning.
 - Removed negative billing amounts.
